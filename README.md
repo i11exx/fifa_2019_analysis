@@ -1,4 +1,4 @@
-# Fifa analysis
+# Fifa 2019 analysis
 
 ## Requirements:
 Version Python - from 3.6.х
