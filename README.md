@@ -4,6 +4,7 @@
 Version Python - from 3.6.х
 
 ## Functional:
+
 In this project uses EDA for concluding **following points:** 
 1. World statistics.
 2. Clustering players by nationality.
