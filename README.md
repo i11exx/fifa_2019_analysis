@@ -18,6 +18,6 @@ In this project uses EDA for concluding **following points:**
 
 ### To run the script:
 ```
-git clone https://github.com/i11exx/fifa_analysis.git
-cd fifa_analysis
-jupyter-notebook fifa.ipynb
+git clone https://github.com/i11exx/fifa_2019_analysis.git
+cd fifa_2019_analysis
+jupyter-notebook fifa_analysis.ipynb
